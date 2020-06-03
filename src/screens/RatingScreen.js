@@ -35,7 +35,7 @@ const RatingScreen  = ({navigation})=>{
         
       }) 
     }
-    console.log (newResults)
+  
     }
     useEffect ( () => {
 
